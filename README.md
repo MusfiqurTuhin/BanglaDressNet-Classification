@@ -31,7 +31,7 @@ We evaluated 10 ImageNet-pretrained CNNs via transfer learning. The best three m
 
 ## 💾 Dataset Description
 
-**BanglaDressNet** is a fine-grained dataset for traditional Bangladeshi dress classification.
+**BanglaDressNet** is a fine-grained dataset for traditional Bangladeshi dress classification. (Novel Dataset)
 
 -   **Total Images:** 8,000
 -   **Classes:** 16 Traditional Dress Categories
